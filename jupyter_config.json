@@ -1,5 +1,6 @@
 {
-  "VoilaConfiguration": {
-    "template": "gridstack"
-  }
+    "VoilaConfiguration": {
+        "enable_nbextensions": true,
+        "template": "gridstack"
+    }
 }
