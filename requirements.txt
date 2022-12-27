@@ -1,5 +1,8 @@
+odfpy
 folium
 pandas
 matplotlib
 numpy
-
+notebook
+voila
+voila-gridstack
